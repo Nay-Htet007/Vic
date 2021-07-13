@@ -41,7 +41,7 @@ read -p "Choose >>" choose
 
 if  [[ $choose == 1 ]] ;then
 
-echo -e "\e[1;35m---[[  \e[1;36mVerify and install most useful command \e[1;35m ]---\e[0m"
+echo -e "\e[1;35m---[[  \e[1;36mVerify and install most useful command \e[1;35m ]]---\e[0m"
 
 echo -e "\e[1;32m(1)\e[0m  bash"
 
