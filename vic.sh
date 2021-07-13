@@ -1,5 +1,5 @@
+#/data/data/com.termux/files/usr/bin/bash
 clear
-
 echo -e  "
 
              \e[1;33m ███████████████████████████████████████
