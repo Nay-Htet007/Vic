@@ -19,7 +19,7 @@ echo -e "              \e[7;32mVerify and install most useful command \e[0m"
 
 echo "-----------------------------------------------------------------------"
 
-echo -e "[\e[1;32m+\e[0m]\e[1;36m  Arthour    :  D4RK-D3V1L\e[0m"
+echo -e "[\e[1;32m+\e[0m]\e[1;36m  Authour    :  D4RK-D3V1L\e[0m"
 
 echo -e "[\e[1;32m+\e[0m]\e[1;36m  Facebook   :  https://www.facebook.com/nayH.51\e[0m"
 
